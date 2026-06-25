@@ -5,3 +5,6 @@ nome do usuário,
 nome da máquina,
 tempo que a maquina está/estava sendo utilizada,
 arquitetura do sistema.
+
+
+para executa-lo, apenas entre na pasta onde está o "infos" pelo terminal e execute com: ./infos.
