@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+clear
+echo "Informações do uso atual"
+echo "---------------------------------"
+
 echo -n "Nome do usuários: "
 whoami
 
@@ -12,3 +16,4 @@ uptime -p
 echo -n "Versão do Kernel e Estrutura do Sistema: "
 uname -rms
 
+echo "---------------------------------"
